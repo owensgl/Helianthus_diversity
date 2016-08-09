@@ -15,9 +15,12 @@ This repository contains scripts and filtered data for Baute et al., 2016.
 * *fbvcf2filtergenotypecount.pl*: Filter freebayes vcf for read count.
 * *fbvcf2tab_full.pl*: Convert vcf to flat tab format.
 * *snp_label_rows.pl*: Estimates missing data, heterozygosity and MAF for all sites.
+* *germplasm.freebayes.80.1.tab*: Tab separated SNP table with >80% samples called and >1% MAF.
+* *germplasm.poplist.txt*: Sample species ID
 
 ## Phylogenetics
 * *plot_phylogeny.R*: Plot phylogeny for supplementary figure 1.
+* *germplasm.freebayes.80.1.fasta*: Fasta formatted data SNP data with >80% samples called and >1% MAF.
 
 ## Diversity
 * *SNPtable2NeiD.pl*: Calculates Nei's D for species.
