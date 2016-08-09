@@ -2,7 +2,7 @@
 This repository contains scripts and filtered data for Baute et al., 2016.
 
 ## ABBA-BABA
-*ABBA_BABA.v1.pl*: Calculates the components of Patterson's D statistic and Fd for each site.
+* *ABBA_BABA.v1.pl*: Calculates the components of Patterson's D statistic and Fd for each site.
 *ABBA_BABA_pipe.sh*: Runs all parts of the ABBA-BABA test for a single set of populations/species.
 *ABBA_out_blocker.pl*: Summarizes Patterson's D statistic and Fd for genomic blocks.
 *ABBA_pvalue.R*: Calculates a p-value for ABBA-BABA tests.
